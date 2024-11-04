@@ -1,8 +1,8 @@
 let userProfile = {
-  fullName: "John Kennedy A. Salvador", 
+  fullName: "Juan Paulo Palattao Passi", 
   age: 19, 
-  favoriteNumber: 13, 
-  favoriteColors: ["Blue", "Green", "Red"]
+  favoriteNumber: 6, 
+  favoriteColors: ["Blue", "Green", "White"]
 };
 
 console.log(userProfile);
